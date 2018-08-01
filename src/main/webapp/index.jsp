@@ -43,7 +43,7 @@
 <h2>Currency Converter</h2>
 <form method="post" action="/converter.jsp">
   <label>Rate: </label><br>
-  <input type="text" name="rate" placeholder="22000"><br>
+  <input type="text" name="rate" placeholder="VND 22000"><br>
   <label>USD: </label><br>
   <input type="text" name="usd" placeholder="$ 0"><br>
   <button type="submit">Calculate</button>
